@@ -7,6 +7,7 @@ Coursera/Stanford Machine Learning course notes and assignments are by week in j
 **USAGE**:
 
 Simplest way is to click launch binder icon below:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hurshd0/coursera-stanford-ml-course.git/master)
 
 or Clone the repo:
