@@ -7,6 +7,6 @@ Coursera/Stanford Machine Learning course notes and assignments are by week in j
 **USAGE**:
 
 ```
-git clone https://github.com/hurshd0/coursera-stanford-ml-course
+git clone https://github.com/hurshd0/coursera-stanford-ml-course.git
 ```
 
